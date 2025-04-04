@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Phalke!  
+### AI Enthusiast | Web Developer | Stock Market Learner  
 
-<!--
-**BuildWithAdi25/BuildWithAdi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **What I'm Building**  
+- Learning Frontend Development (React, JavaScript)  
+- Exploring AI & Machine Learning  
+- Building cool projects  
 
-Here are some ideas to get you started:
+📌 **Pinned Projects**  
+- [Spotify Clone](https://github.com/AdityaPhalke25/spotify-clone)  
+- [Smart Home Automation](https://github.com/AdityaPhalke25/home-automation)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack**  
+- **Languages:** Python, JavaScript  
+- **Frameworks:** React.js, Node.js  
+- **Tools:** Git, VS Code  
+
+📫 **Connect with Me**  
+[![Twitter](https://img.shields.io/badge/Twitter-@Build_with_Adi-blue?style=flat&logo=twitter)](https://twitter.com/Build_with_Adi)  
