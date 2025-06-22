@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aditya Phalke!  
-### AI Enthusiast | Web Developer | Stock Market Learner  
+### AI Engineer  | MERN Stack Developer | Stock Market Learner  
 
 🚀 **What I'm Building**  
 - Learning Frontend Development (React, JavaScript)  
