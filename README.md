@@ -19,7 +19,7 @@
 ## 💻 Tech Stack
 
 **Languages**  
-`JavaScript` · `Python` · `SQL`
+`JavaScript` · `Python` · `SQL` · 
 
 **Frameworks / Libraries**  
 `React.js` · `Node.js` · `Tailwind CSS` · `NumPy` · `Pandas` · `Scikit-Learn`
@@ -50,9 +50,9 @@
 
 ## 🎯 2025 Dev Goals
 
-- Build 10+ frontend projects (solo)
+- Build 2–3 Full Stack Projects
 - Master Git/GitHub & contribute to Open Source
-- Start with backend: Node.js, Express, MongoDB
+- MERN Stack Mastery
 - Get comfortable with APIs & Full Stack logic
 - Begin Machine Learning fundamentals with Python
 - Be GSoC-ready by end of first year (2026)
