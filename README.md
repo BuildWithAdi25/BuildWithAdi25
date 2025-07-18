@@ -104,7 +104,9 @@ All learning content will be organized by category:
 ## 🤝 Connect With Me
 
 🐦 [@Build_with_Adi](https://twitter.com/Build_with_Adi) on X  
+
 📬 Email: adityaphalke079@gmail.com
+
 🧠 Learning daily | Shipping projects | Growing fast
 
 Thanks for reading! More updates coming soon as I keep shipping projects and mastering my stack.
