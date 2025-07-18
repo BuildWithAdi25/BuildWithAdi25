@@ -111,6 +111,7 @@ All learning content will be organized by category:
 
 Thanks for reading! More updates coming soon as I keep shipping projects and mastering my stack.
 
+Author - Aditya Phalke 
 
 ---
 
