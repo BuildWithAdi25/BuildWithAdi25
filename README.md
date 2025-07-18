@@ -3,29 +3,71 @@
 🔧 AI Engineer in Progress | MERN Stack Developer | Open Source Explorer  
 📚 Learning in Public | Documenting My Dev Journey | 20 y/o Self-Taught Coder
 
----
+Welcome to my learning-in-public repository!  
+I'm actively building strong foundations in **AI Engineering**, **Full-Stack Web Development (MERN)**, and **No-Code Tools** to solve real-world, boring, painful problems using technology.
 
-## 🚀 What I'm Building
-
-- Frontend development using **React** and **JavaScript**
-- Building useful **projects & clones** to master the fundamentals
-- Exploring **Python libraries** for automation and AI
-- Preparing for **Open Source contributions** and GSoC 2026
-- Solving DSA problems (100–150 Easy/Medium by 2025)
-- Posting everything I learn to share & reinforce concepts
+This repository will document my progress, projects, and resources as I level up in these domains.
 
 ---
 
-## 💻 Tech Stack
+## 🎯 Core Learning Tracks
 
-**Languages**  
-`JavaScript` · `Python` · `SQL` · 
+### 1️⃣ AI Engineering
 
-**Frameworks / Libraries**  
-`React.js` · `Node.js` · `Tailwind CSS` · `NumPy` · `Pandas` · `Scikit-Learn`
+I'm mastering Python and core data science concepts to break into the AI space with confidence.
 
-**Tools**  
-`Git` · `GitHub` · `VS Code` · `Postman` · `No-Code Tools (Notion, Zapier, Tally, Make)`
+#### 🧠 Current Focus Areas:
+- ✅ Python: Basics → Intermediate → Mastery
+- ✅ Libraries: `NumPy`, `Pandas`, `Matplotlib`
+- ✅ Data Structures & Algorithms (100–150 LeetCode Questions)
+- ✅ SQL (following CodeBasics Course)
+- ✅ Maths for AI (11th, 12th & Engineering Math)
+- ✅ Machine Learning Basics
+- ✅ Small AI Projects to apply ML concepts
+
+---
+
+### 2️⃣ MERN Stack Development
+
+I'm learning modern full-stack development to build real-world applications.
+
+#### 💻 Stack Breakdown:
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Other Tools**: Git, GitHub, Postman
+
+#### 🛠 Project Goals:
+- Build full-stack projects from scratch
+- Practice real use cases (e.g., dashboards, APIs, CRUD apps)
+- Deploy and maintain clean, documented codebases on GitHub
+
+---
+
+### 3️⃣ No-Code Tooling
+
+I'm exploring powerful no-code/low-code tools to quickly build and test product ideas.
+
+#### ⚙️ Tools I'm Learning:
+- **Zapier** – Automate repetitive workflows
+- **Make (Integromat)** – Visual automation builder
+- **Bubble** – No-code web app builder
+- **Tally.so** – Simple, beautiful forms
+
+---
+
+## 🧰 Tech Stack Overview
+
+| Domain | Tools / Languages |
+|--------|-------------------|
+| Programming | Python, JavaScript |
+| Libraries | NumPy, Pandas, Matplotlib |
+| DSA | LeetCode Practice |
+| Web Dev | HTML, CSS, JavaScript, React, Node.js, Express, MongoDB |
+| Data | SQL |
+| ML | Basics of Machine Learning (Scikit-learn soon) |
+| No-Code | Zapier, Make, Bubble, Tally |
+| Version Control | Git, GitHub |
 
 ---
 
@@ -35,34 +77,38 @@
 - 🏠 [Smart Home Automation](https://github.com/BuildWithAdi25/smart-home) — IoT with Raspberry Pi
 - 🎮 [JS Games](https://github.com/BuildWithAdi25) — Dino Game, Angry Birds, Snake & Ladder, and more
 
+## 📁 Repository Structure
+
+All learning content will be organized by category:
+
+- `/python-basics/`
+- `/data-science/`
+- `/sql-practice/`
+- `/mern-projects/`
+- `/machine-learning/`
+- `/no-code-workflows/`
+- `/resources/` → Notes, templates, references
+
+## 📌 Philosophy
+
+> **"Consistency beats intensity. Build real things. Learn in public."**
+
+- 🧠 Learn deeply
+- 🛠 Build projects that solve real problems
+- 📚 Keep GitHub organized, clean, and beginner-friendly
+- 📢 Share progress with the world
+
 ---
 
-## 🧠 Currently Learning
-
-- 🔹 JavaScript (ES6+) — DOM, APIs, Projects  
-- 🔹 React + Tailwind — Frontend Dev  
-- 🔹 Python — Libraries like NumPy, Pandas, Matplotlib  
-- 🔹 Git & GitHub — Version control and open-source workflows  
-- 🔹 SQL — For backend and data querying  
-- 🔹 DSA — Easy to Medium problems on LeetCode
-
----
-
-## 🎯 2025 Dev Goals
-
-- Build 2–3 Full Stack Projects
-- Master Git/GitHub & contribute to Open Source
-- MERN Stack Mastery
-- Get comfortable with APIs & Full Stack logic
-- Begin Machine Learning fundamentals with Python
-- Be GSoC-ready by end of first year (2026)
-
----
 
 ## 🤝 Connect With Me
 
 🐦 [@Build_with_Adi](https://twitter.com/Build_with_Adi) on X  
+📬 Email: adityaphalke079@gmail.com
 🧠 Learning daily | Shipping projects | Growing fast
+
+Thanks for reading! More updates coming soon as I keep shipping projects and mastering my stack.
+
 
 ---
 
